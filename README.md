@@ -3,11 +3,11 @@
 <p><em>Backend Developer at <a href="https://condorlabs.io/">Condor Labs</a>&nbsp &nbsp<img src="https://condorlabs.io/favicon-32x32.png?v=8031a439d4511ed16be9cc014fc17b20" width="20"></p>
 
 
-![](https://komarev.com/ghpvc/?username=cristianjdelrio&color=blue)
 [![Twitter: CristianJDelRio](https://img.shields.io/twitter/follow/cristianjdelrio?style=social)](https://twitter.com/cristianjdelrio)
 [![Linkedin: CristianJDelRio](https://img.shields.io/badge/-cristianjdelrio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianjdelrio/)](https://www.linkedin.com/in/cristianjdelrio/)
 [![GitHub CristianJDelRio](https://img.shields.io/github/followers/cristianjdelrio?label=follow&style=social)](https://github.com/CristianJDelRio)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://cristianjdelrio.com/)
+![](https://komarev.com/ghpvc/?username=cristianjdelrio&color=blue)
 
 ```javascript
 const CristianJDelRio = {
