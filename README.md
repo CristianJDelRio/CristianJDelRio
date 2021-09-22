@@ -8,6 +8,16 @@
 [![GitHub CristianJDelRio](https://img.shields.io/github/followers/cristianjdelrio?label=follow&style=social)](https://github.com/CristianJDelRio)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://cristianjdelrio.com/)
 ![](https://komarev.com/ghpvc/?username=cristianjdelrio&color=blue)
+    
+👇 Hit in your console to know more aabout me.
+
+```bash
+npx cristianjdelrio
+```
+**👆 This command line tool can be found at [npx cristianjdelrio](https://github.com/CristianJDelRio/npx-card)**
+    
+### <img src="https://media.giphy.com/media/qqZAaH2eWU168D19pG/giphy.gif" width="50"> A little more about me...  
+
 
 ```javascript
 const CristianJDelRio = {
