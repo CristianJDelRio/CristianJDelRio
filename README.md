@@ -24,7 +24,7 @@ const CristianJDelRio = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "HTML", "CSS", ], //Python incomming
     askMeAbout: ["web dev", "tech", "web scraping"],
-    architecture: ["microservices", "event-driven", "design system pattern"],
+    architecture: ["microservices", "event-driven", "design pattern"],
     technologies: {
         backEnd: ["Node", "Express", "NestJS"], // Some day, Deno
         frontEnd: ["React"], //Vue incomming
